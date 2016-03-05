@@ -1,0 +1,28 @@
+name: ewselect
+favicon: null
+layout_spectrum: 0.33185887592844665
+typography_spectrum: 0.9003194833640009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5362917131278664
+  lightness: 0.7941542463377118
+  saturation: 0.5369295594282448
+  rhythmicContrast: 0.47514578932896256
+purpose: []
