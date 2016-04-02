@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.wyndham.com'
   name: Wyndham
-  favicon: 'http://www.wyndham.com/favicon.ico'
   domain: www.wyndham.com
+  url: 'http://www.wyndham.com'
+  favicon: 'http://www.wyndham.com/favicon.ico'
 keywords:
   - hotel
   - resorts
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.wyndham.com/'
 title: 'Wyndham Hotels and Resorts | Reservations, Deals, Room Rates & Rewards'
-datePublished: '2016-04-02T04:54:19.257Z'
-dateModified: '2016-04-02T04:53:02.058Z'
+datePublished: '2016-04-02T04:54:47.988Z'
+dateModified: '2016-04-02T04:54:45.578Z'
 sourcePath: _posts/2016-04-02-wyndham-hotels-and-resorts-or-reservations-deals-room-rates.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
