@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: DIY Travel
-datePublished: '2016-04-02T02:05:05.093Z'
-dateModified: '2016-04-02T02:04:59.910Z'
+description: 'Our boutique agency specializes in taking care of our clients as if it is our own family. Our clients include top executives, travel connoisseurs, and groups of leisure. Our qualified team can offer you the travel solution you have been hoping for.'
+datePublished: '2016-04-02T02:07:31.955Z'
+dateModified: '2016-04-02T02:06:50.996Z'
 title: Encompass Worldwide
 author: []
 sourcePath: _posts/2016-03-05-ew-select-travel-concierge.md
@@ -22,6 +22,7 @@ publisher:
 _type: Blurb
 
 ---
+## Travel Concierge
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a74cb7-bf67-45b9-aaf7-397a7c535506.jpg)
 
 ## TRAVEL
