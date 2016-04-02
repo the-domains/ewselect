@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Our boutique agency specializes in taking care of our clients as if it is our own family. Our clients include top executives, travel connoisseurs, and groups of leisure. Our qualified team can offer you the travel solution you have been hoping for.'
-datePublished: '2016-04-02T02:15:40.129Z'
-dateModified: '2016-04-02T02:15:38.081Z'
+datePublished: '2016-04-02T04:35:25.564Z'
+dateModified: '2016-04-02T04:34:52.514Z'
 title: Travel Concierge
 author: []
 sourcePath: _posts/2016-03-05-ew-select-travel-concierge.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: travel-concierge/index.html
+_type: WebPage
 
 ---
 # Travel Concierge
