@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.hotelplanner.com'
   name: Hotelplanner
-  favicon: 'https://cdn.hotelplanner.com/Common/Images/favicon.png'
   domain: www.hotelplanner.com
+  url: 'https://www.hotelplanner.com'
+  favicon: 'https://cdn.hotelplanner.com/Common/Images/favicon.png'
 keywords:
   - hotelplanner
   - travel
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.hotelplanner.com/'
 title: 'Group Hotel Reservations & Negotiated Rates for Extended Stays'
-datePublished: '2016-04-02T04:41:19.776Z'
-dateModified: '2016-04-02T04:41:03.496Z'
+datePublished: '2016-04-02T04:41:49.972Z'
+dateModified: '2016-04-02T04:41:48.022Z'
 sourcePath: _posts/2016-04-02-group-hotel-reservations-and-negotiated-rates-for-extended-sta.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
