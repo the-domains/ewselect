@@ -4,8 +4,15 @@
         <description><![CDATA[EW Select Travel Concierge]]></description>
         <link>https://thegrid.ai/ewselect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 04:54:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Carlson - Worldwide, World-Class Hospitality and Travel]]></title>
+            <description><![CDATA[<article><h1>Carlson - Worldwide, World-Class Hospitality and Travel</h1><p>Carlson is a global hospitality and travel company encompassing Radisson Blu, Radisson, Park Plaza, Park Inn by Radisson, Country Inns & Suites By Carlson, and Carlson Wagonlit Travel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d8e0d2d82eabe16884f8fc6113868055264964f.png"></article>]]></description>
+            <link>http://carlsonhotels.com/</link>
+            <guid isPermaLink="false">8ad9dc4c-5a71-4cc3-9edd-b0afa62f7c2a</guid>
+            <pubDate>Sat, 02 Apr 2016 04:54:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Book Flights, Holidays & Check In Online | British Airways]]></title>
             <description><![CDATA[<article><h1>Book Flights, Holidays & Check In Online | British Airways</h1><p>Book flights to London, New York and many other international holiday destinations with British Airways. BA.com offer flights, hotels, holidays, car rental and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2611da6f97cc0cc10ca9a5cbd90275a18faaf059.jpg"></article>]]></description>
@@ -42,10 +49,17 @@
             <pubDate>Sat, 02 Apr 2016 01:53:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carlson - Worldwide, World-Class Hospitality and Travel]]></title>
-            <description><![CDATA[<article><h1>Carlson - Worldwide, World-Class Hospitality and Travel</h1><p>Carlson is a global hospitality and travel company encompassing Radisson Blu, Radisson, Park Plaza, Park Inn by Radisson, Country Inns & Suites By Carlson, and Carlson Wagonlit Travel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d8e0d2d82eabe16884f8fc6113868055264964f.png"></article>]]></description>
-            <link>http://carlsonhotels.com/</link>
-            <guid isPermaLink="false">8ad9dc4c-5a71-4cc3-9edd-b0afa62f7c2a</guid>
+            <title><![CDATA[Wyndham Hotels and Resorts | Reservations, Deals, Room Rates & Rewards]]></title>
+            <description><![CDATA[<article><h1>Wyndham Hotels and Resorts | Reservations, Deals, Room Rates & Rewards</h1><p>Find and book hotel rooms online at Wyndham Hotels and Resorts. Browse discounts, deals, photos and amenities including free breakfast and internet. Save more with Wyndham Rewards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4b9bee3b01350157f21f21290c22587a9f68834.jpg"></article>]]></description>
+            <link>http://www.wyndham.com/</link>
+            <guid isPermaLink="false">f64f709b-fbf8-431c-ad21-f7eaee1339ff</guid>
+            <pubDate>Sat, 02 Apr 2016 04:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cdn.atlassbx.com/FB/11042209031391/MMT15021_Q1_SWC_HP_1060x295_1215_EN.jpg">]]></description>
+            <link>https://thegrid.ai/ewselect/70f13077-8845-4109-bcd8-e6ecb7effef0/index.html</link>
+            <guid isPermaLink="false">70f13077-8845-4109-bcd8-e6ecb7effef0</guid>
             <pubDate>Sat, 02 Apr 2016 04:54:04 GMT</pubDate>
         </item>
     </channel>
