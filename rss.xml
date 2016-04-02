@@ -4,7 +4,7 @@
         <description><![CDATA[EW Select Travel Concierge]]></description>
         <link>https://thegrid.ai/ewselect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 01:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 02:05:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[News]]></title>
@@ -20,13 +20,6 @@ We are geared toward working with you and your crew. We offer individual and gro
             <link>https://thegrid.ai/ewselect/business-and-crew-travel/index.html</link>
             <guid isPermaLink="false">98b63d19-496d-4fe8-98fd-ce02146bbd1f</guid>
             <pubDate>Sat, 02 Apr 2016 01:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EW Select Travel Concierge]]></title>
-            <description><![CDATA[<article><h1>EW Select Travel Concierge</h1><p>DIY Travel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de4a8f0988fede6c50a718468a4075a4624ed0d8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ewselect/ew-select-travel-concierge/index.html</link>
-            <guid isPermaLink="false">c1bf7933-1ce6-4ea2-b553-8eadfea5bf53</guid>
-            <pubDate>Sat, 02 Apr 2016 01:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
