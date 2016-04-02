@@ -4,7 +4,7 @@
         <description><![CDATA[EW Select Travel Concierge]]></description>
         <link>https://thegrid.ai/ewselect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 04:32:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hilton Hotels and Resorts - Find Hotel Rooms]]></title>
@@ -34,13 +34,6 @@ We are geared toward working with you and your crew. We offer individual and gro
             <link>https://thegrid.ai/ewselect/business-and-crew-travel/index.html</link>
             <guid isPermaLink="false">98b63d19-496d-4fe8-98fd-ce02146bbd1f</guid>
             <pubDate>Sat, 02 Apr 2016 04:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://cache.marriott.com/Images/Homepage/Hero/2016/03_31_2016_HKTKL.jpg">]]></description>
-            <link>https://thegrid.ai/ewselect/20b048b4-a718-4e49-8aeb-ff43065a898e/index.html</link>
-            <guid isPermaLink="false">20b048b4-a718-4e49-8aeb-ff43065a898e</guid>
-            <pubDate>Sat, 02 Apr 2016 04:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
