@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.virgin-atlantic.com'
   name: Virgin-atlantic
-  favicon: 'http://www.virgin-atlantic.com/etc/designs/vaa/img/icons/favicon.ico'
   domain: www.virgin-atlantic.com
+  url: 'http://www.virgin-atlantic.com'
+  favicon: 'http://www.virgin-atlantic.com/etc/designs/vaa/img/icons/favicon.ico'
 keywords:
   - flight
   - edinburgh
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.virgin-atlantic.com/us/en.html'
 title: 'USA | Virgin Atlantic'
-datePublished: '2016-04-02T04:38:38.020Z'
-dateModified: '2016-04-02T04:37:40.300Z'
+datePublished: '2016-04-02T04:41:36.107Z'
+dateModified: '2016-04-02T04:41:34.221Z'
 sourcePath: _posts/2016-04-02-usa-or-virgin-atlantic.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
