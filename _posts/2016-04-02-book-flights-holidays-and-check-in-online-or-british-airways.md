@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.britishairways.com'
   name: Britishairways
-  favicon: 'http://www.britishairways.com/favicon.ico'
   domain: www.britishairways.com
+  url: 'http://www.britishairways.com'
+  favicon: 'http://www.britishairways.com/favicon.ico'
 keywords:
   - flight
   - carrier
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.britishairways.com/travel/home/public/en_us'
 title: 'Book Flights, Holidays & Check In Online | British Airways'
-datePublished: '2016-04-02T04:41:19.920Z'
-dateModified: '2016-04-02T04:39:43.174Z'
+datePublished: '2016-04-02T04:41:44.730Z'
+dateModified: '2016-04-02T04:41:42.207Z'
 sourcePath: _posts/2016-04-02-book-flights-holidays-and-check-in-online-or-british-airways.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
