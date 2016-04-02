@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 02 Apr 2016 04:36:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hotel Rooms | Find Your Perfect Hotel Room with Marriott]]></title>
+            <description><![CDATA[<article><h1>Hotel Rooms | Find Your Perfect Hotel Room with Marriott</h1><p>Browse and book hotel rooms that suit your needs and style and start your next adventure with Marriott.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad5369f4f22c0ffd9535b5dbff51284ef97f6b7.jpg"></article>]]></description>
+            <link>http://www.marriott.com/default.mi</link>
+            <guid isPermaLink="false">ee969709-dd85-4fbd-a683-6872f8f6c8c2</guid>
+            <pubDate>Sat, 02 Apr 2016 04:36:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://www.motel6.com/content/dam/g6/motel6-com/hero/LasVegas_1280x640.jpg">]]></description>
             <link>https://www.motel6.com/#/home</link>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/ewselect/news/index.html</link>
             <guid isPermaLink="false">3ed655a6-6020-46e3-ae41-bdea25d0445d</guid>
             <pubDate>Sat, 02 Apr 2016 01:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hotel Rooms | Find Your Perfect Hotel Room with Marriott]]></title>
-            <description><![CDATA[<article><h1>Hotel Rooms | Find Your Perfect Hotel Room with Marriott</h1><p>Browse and book hotel rooms that suit your needs and style and start your next adventure with Marriott.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad5369f4f22c0ffd9535b5dbff51284ef97f6b7.jpg"></article>]]></description>
-            <link>http://www.marriott.com/default.mi</link>
-            <guid isPermaLink="false">ee969709-dd85-4fbd-a683-6872f8f6c8c2</guid>
-            <pubDate>Sat, 02 Apr 2016 04:35:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
