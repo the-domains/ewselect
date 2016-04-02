@@ -4,8 +4,15 @@
         <description><![CDATA[EW Select Travel Concierge]]></description>
         <link>https://thegrid.ai/ewselect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 04:42:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USA | Virgin Atlantic]]></title>
+            <description><![CDATA[<article><h1>USA | Virgin Atlantic</h1><p>Book flights to over 36 destinations worldwide with Virgin Atlantic. Join Flying Club, manage flights and book our lowest fares.</p></article>]]></description>
+            <link>http://www.virgin-atlantic.com/us/en.html</link>
+            <guid isPermaLink="false">a09ac20f-79fc-4dd8-9c5c-1e8af4909716</guid>
+            <pubDate>Sat, 02 Apr 2016 04:41:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hotel Rooms | Find Your Perfect Hotel Room with Marriott]]></title>
             <description><![CDATA[<article><h1>Hotel Rooms | Find Your Perfect Hotel Room with Marriott</h1><p>Browse and book hotel rooms that suit your needs and style and start your next adventure with Marriott.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad5369f4f22c0ffd9535b5dbff51284ef97f6b7.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://www.hotelplanner.com/</link>
             <guid isPermaLink="false">2f4a8fdd-19ea-4f71-8136-4de1632b3374</guid>
             <pubDate>Sat, 02 Apr 2016 04:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USA | Virgin Atlantic]]></title>
-            <description><![CDATA[<article><h1>USA | Virgin Atlantic</h1><p>Book flights to over 36 destinations worldwide with Virgin Atlantic. Join Flying Club, manage flights and book our lowest fares.</p></article>]]></description>
-            <link>http://www.virgin-atlantic.com/us/en.html</link>
-            <guid isPermaLink="false">a09ac20f-79fc-4dd8-9c5c-1e8af4909716</guid>
-            <pubDate>Sat, 02 Apr 2016 04:38:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
