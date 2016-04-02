@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www3.hilton.com'
   name: Hilton
-  favicon: 'http://www3.hilton.com/skins/common/img/favicon_HI.ico'
   domain: www3.hilton.com
+  url: 'http://www3.hilton.com'
+  favicon: 'http://www3.hilton.com/skins/common/img/favicon_HI.ico'
 keywords:
   - hotels
   - hilton
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www3.hilton.com/'
 title: Hilton Hotels and Resorts - Find Hotel Rooms
-datePublished: '2016-04-02T04:30:28.245Z'
-dateModified: '2016-04-02T04:28:46.899Z'
+datePublished: '2016-04-02T04:31:28.326Z'
+dateModified: '2016-04-02T04:31:21.849Z'
 sourcePath: _posts/2016-04-02-hilton-hotels-and-resorts-find-hotel-rooms.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
