@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our boutique agency specializes in taking care of our clients as if it is our own family. Our clients include top executives, travel connoisseurs, and groups of leisure. Our qualified team can offer you the travel solution you have been hoping for.'
-datePublished: '2016-04-02T02:08:00.163Z'
-dateModified: '2016-04-02T02:07:38.241Z'
-title: Encompass Worldwide
+datePublished: '2016-04-02T02:15:40.129Z'
+dateModified: '2016-04-02T02:15:38.081Z'
+title: Travel Concierge
 author: []
 sourcePath: _posts/2016-03-05-ew-select-travel-concierge.md
 published: true
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-## Travel Concierge
+# Travel Concierge
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a74cb7-bf67-45b9-aaf7-397a7c535506.jpg)
 
 ## TRAVEL
@@ -39,6 +39,6 @@ Encompass Worldwide has the privilege of being an accredited travel agent throug
 
 We have people that work throughout the country to service our clients. We are always adding smart professional travel agents to our team that we feel can bring a valuable asset. We have been doing this so long that we can spot good talent from a mile away.
 
-If you are interested in joining our team, click[here][0]to reach out to us with your resume.
+If you are interested in joining our team, send us an email with your resume: [travel@ewselect.com][0]
 
-[0]: http://travel@encompass-worldwide.com/
+[0]: null
