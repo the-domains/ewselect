@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Who We Work With
   We are geared toward working with you and your crew. We offer individual and group rates which makes it easy to accommodate any of your travel needs. Below are different industries that we specialize in as a company.
-datePublished: '2016-04-02T04:09:57.540Z'
-dateModified: '2016-04-02T04:09:55.676Z'
+datePublished: '2016-04-02T04:35:30.803Z'
+dateModified: '2016-04-02T04:35:13.578Z'
 title: Work Force Travel
 author: []
 sourcePath: _posts/2016-03-05-business-and-crew-travel.md
@@ -21,7 +21,7 @@ publisher:
   url: null
   favicon: null
 url: business-and-crew-travel/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f02a30c2-474b-4cdd-b4a1-33b7f6cb8f76.jpg)
@@ -66,8 +66,6 @@ The needs for the Construction, Engineering and Subcontracts for hotel is vast a
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b898a487-3df0-44e5-81b9-61edc715e5eb.jpg)
 
 This very broad term covers a lot of our crew travelers whom are working on large projects, installations, or creating better faster infrastructure for our future technology needs. Whether it is coming to an area for a short period of time or long, there are always needs for hotels as it relates to information technology. We want to be the one place that you think of for travel when coming to the US or traveling overseas. With the ever-changing use of computers from software to hardware, we are all connecting through the Internet, which is where we come into play. Booking your reservations online is easy here at Hotels for Crews and below is other helpful information for your industry.
-
-## 
 
 ## Mining & Exploration
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ff94f71f5f709f5958f146848e47d93/passthrough.jpg?height=247&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fefef28e8-2afe-4c47-88b6-6b2f7b35004c.jpg&width=750)
