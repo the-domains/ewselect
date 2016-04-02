@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Who We Work With
   We are geared toward working with you and your crew. We offer individual and group rates which makes it easy to accommodate any of your travel needs. Below are different industries that we specialize in as a company.
-datePublished: '2016-04-02T02:40:42.672Z'
-dateModified: '2016-04-02T02:39:50.580Z'
+datePublished: '2016-04-02T02:57:56.115Z'
+dateModified: '2016-04-02T02:57:37.681Z'
 title: Work Force Travel
 author: []
 sourcePath: _posts/2016-03-05-business-and-crew-travel.md
@@ -32,19 +32,50 @@ Who We Work With
 We are geared toward working with you and your crew. We offer individual and group rates which makes it easy to accommodate any of your travel needs. Below are different industries that we specialize in as a company.
 
 ## Renewable Energy & Environmental
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c419979-d8f3-4401-ac75-ee24336267d0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f83ebcc-6b71-4abf-929e-565a95057ee2.jpg)
+
+The Environmental industry can be as simple as a simple home or building mold remediation all the way to a complex cleanup effort. Each state, city, region requires various sets of environmental regulations which aids in sustaining the worlds fragile ecosystem. Environmental crews require hotels for their projects to ensure all other industries are keeping in line with the same standards. Environmental crews will keep the balance in ways such as:
+
+* Industrial and Construction Storm Water Compliance
+* Toxic Release Inventory (TRI) reporting
+* Hazardous Materials Business Plan (HMBP)
+* Spill Prevention, Control, and Countermeasure (SPCC) Plans
+* Industrial Hygiene assessments
+* Health & Safety policies
+* Hazardous waste minimization
+* Green Energy
+
+Lest we forget the new Green Energy sector which falls under the Environmental Industry. From Solar Power, Wind Power, Hydropower and many others these are industries which help clean and power the world. This technology is the future of power and offers much to be seen moving forward.
+
+## 
 
 ## Oil & Gas
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0ffa0a6-e917-4837-8a2f-2e0945c7924f.jpg)
 
+## In the petroleum industry there are so many needs for hotels. With projects in upstream, midstream and downstream, these crews are literally all over the world working on projects. Travel is second nature and being away from family for long periods of time is normal in this industry. From exploration of the product, to extracting it from the earth, refining it and then moving it from point A to point B or even C, D, and F, there are a lot of people involved. This industry is vast and if we tried to list all of the things that are going on right now, we would not be able to offer you this great booking tool. Instead we like to partner with others to provide information to you about what is happening in your industry. Use us as a resource so that you can always know where to go for.
+
+## 
+
 ## Unions & Safety
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72d78b07-04da-449d-8acd-433535b8dbda.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7393ca0a-1901-4a45-b244-acbe221712a6.jpg)
+
+Labor unions like all of our other crews have a lot of travel needs. The unions are together to collective bargain wages, benefits and working conditions.  Safety and Security also falls in the same segment with government agencies like OSHA.
+
+## 
 
 ## Construction & Engineering
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c4add2-723e-427e-ad45-9191f2065b5e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0dc6dec-be90-4c4a-a55c-57f8e4ae128b.jpg)
+
+The needs for the Construction, Engineering and Subcontracts for hotel is vast and many times the projects take place in areas with little to no hotels requiring a long distance drive to their project each day. Our Portal will give the distance and rates which the crew is expecting in a quick and efficient manner.Mining & Exploration
+
+## 
+
+## Information Technology & Telecommunications
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b898a487-3df0-44e5-81b9-61edc715e5eb.jpg)
+
+This very broad term covers a lot of our crew travelers whom are working on large projects, installations, or creating better faster infrastructure for our future technology needs. Whether it is coming to an area for a short period of time or long, there are always needs for hotels as it relates to information technology. We want to be the one place that you think of for travel when coming to the US or traveling overseas. With the ever-changing use of computers from software to hardware, we are all connecting through the Internet, which is where we come into play. Booking your reservations online is easy here at Hotels for Crews and below is other helpful information for your industry.
+
+## 
 
 ## Mining & Exploration
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eebd5efe-175f-411a-9c48-a3a318e230dc.jpg)
-
-Information Technology & Telecommunications
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d497e2df-7614-46ad-be68-e6a7b511c78f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef28e8-2afe-4c47-88b6-6b2f7b35004c.jpg)
