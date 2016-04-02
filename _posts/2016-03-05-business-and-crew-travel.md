@@ -1,15 +1,15 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: |-
   Who We Work With
   We are geared toward working with you and your crew. We offer individual and group rates which makes it easy to accommodate any of your travel needs. Below are different industries that we specialize in as a company. By clicking on each box, you will find helpful information about jobs, locations and high volume areas.
-datePublished: '2016-04-02T01:24:08.253Z'
-dateModified: '2016-04-02T01:24:07.906Z'
+datePublished: '2016-04-02T01:57:27.424Z'
+dateModified: '2016-04-02T01:57:14.939Z'
 title: Business and Crew Travel
 author: []
 sourcePath: _posts/2016-03-05-business-and-crew-travel.md
