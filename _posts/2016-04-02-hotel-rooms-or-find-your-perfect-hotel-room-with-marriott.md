@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.marriott.com'
   name: Marriott
-  favicon: 'http://www.marriott.com/favicon.ico'
   domain: www.marriott.com
+  url: 'http://www.marriott.com'
+  favicon: 'http://www.marriott.com/favicon.ico'
 keywords:
   - marriott
   - rewards
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.marriott.com/default.mi'
 title: 'Hotel Rooms | Find Your Perfect Hotel Room with Marriott'
-datePublished: '2016-04-02T04:35:47.278Z'
-dateModified: '2016-04-02T04:33:20.683Z'
+datePublished: '2016-04-02T04:36:21.671Z'
+dateModified: '2016-04-02T04:36:18.248Z'
 sourcePath: _posts/2016-04-02-hotel-rooms-or-find-your-perfect-hotel-room-with-marriott.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
