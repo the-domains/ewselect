@@ -4,8 +4,15 @@
         <description><![CDATA[EW Select Travel Concierge]]></description>
         <link>https://thegrid.ai/ewselect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 04:42:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Group Hotel Reservations & Negotiated Rates for Extended Stays]]></title>
+            <description><![CDATA[<article><h1>Group Hotel Reservations & Negotiated Rates for Extended Stays</h1><p>Team of negotiators Worldwide Team of Planners We employ the best group sales specialists from all around the world... When you plan a group or long stay with us, we'll assign you to a local expert in your destination. They will be available to you for local advice on the hotels, the city and activities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20406b74f88e4c6fd726707d0d421f47bb1b5652.png"></article>]]></description>
+            <link>https://www.hotelplanner.com/</link>
+            <guid isPermaLink="false">2f4a8fdd-19ea-4f71-8136-4de1632b3374</guid>
+            <pubDate>Sat, 02 Apr 2016 04:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Book Flights, Holidays & Check In Online | British Airways]]></title>
             <description><![CDATA[<article><h1>Book Flights, Holidays & Check In Online | British Airways</h1><p>Book flights to London, New York and many other international holiday destinations with British Airways. BA.com offer flights, hotels, holidays, car rental and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2611da6f97cc0cc10ca9a5cbd90275a18faaf059.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/ewselect/news/index.html</link>
             <guid isPermaLink="false">3ed655a6-6020-46e3-ae41-bdea25d0445d</guid>
             <pubDate>Sat, 02 Apr 2016 01:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Group Hotel Reservations & Negotiated Rates for Extended Stays]]></title>
-            <description><![CDATA[<article><h1>Group Hotel Reservations & Negotiated Rates for Extended Stays</h1><p>Team of negotiators Worldwide Team of Planners We employ the best group sales specialists from all around the world... When you plan a group or long stay with us, we'll assign you to a local expert in your destination. They will be available to you for local advice on the hotels, the city and activities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20406b74f88e4c6fd726707d0d421f47bb1b5652.png"></article>]]></description>
-            <link>https://www.hotelplanner.com/</link>
-            <guid isPermaLink="false">2f4a8fdd-19ea-4f71-8136-4de1632b3374</guid>
-            <pubDate>Sat, 02 Apr 2016 04:41:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
