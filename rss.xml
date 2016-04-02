@@ -4,8 +4,15 @@
         <description><![CDATA[EW Select Travel Concierge]]></description>
         <link>https://thegrid.ai/ewselect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 01:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 01:54:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewselect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[News]]></title>
+            <description><![CDATA[<article><h1>News</h1><p>New Zealand has become a travel hotspot over the last decade, not only because it produces the finest Sauvignon Blancs in the world, but also due to being the film location for the critically-acclaimed and wildly popularLord of the Ringsmovie trilogy. While traveling halfway across the globe may seem like an arduous enterprise, the beautiful scenery, rich culture and friendly locals make New Zealand a country worthy of a spot on any travel bucket list.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb74b913ee8e21946f2e365b02da30b74b74dfc2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ewselect/news/index.html</link>
+            <guid isPermaLink="false">3ed655a6-6020-46e3-ae41-bdea25d0445d</guid>
+            <pubDate>Sat, 02 Apr 2016 01:53:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Business and Crew Travel]]></title>
             <description><![CDATA[<article><h1>Business and Crew Travel</h1><p>Who We Work With
@@ -20,13 +27,6 @@ We are geared toward working with you and your crew. We offer individual and gro
             <link>https://thegrid.ai/ewselect/ew-select-travel-concierge/index.html</link>
             <guid isPermaLink="false">c1bf7933-1ce6-4ea2-b553-8eadfea5bf53</guid>
             <pubDate>Sat, 02 Apr 2016 01:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://667ca9dd9007891a6b3f-fdee6fa6472ea9bc5c012e638c60dac8.r4.cf2.rackcdn.com/265cc71bd88d000a99010bd4206c45fa-003f83a6c4171576871b5f14d5b69272.jpg">]]></description>
-            <link>http://hotelsforcrews.com/blog/discovering-new-zealands-north-island-part-i</link>
-            <guid isPermaLink="false">3ed655a6-6020-46e3-ae41-bdea25d0445d</guid>
-            <pubDate>Sat, 02 Apr 2016 01:49:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
